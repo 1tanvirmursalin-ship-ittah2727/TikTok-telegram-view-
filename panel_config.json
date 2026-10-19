@@ -1,0 +1,16 @@
+{
+  "min_delay_ms": 80,
+  "max_delay_ms": 280,
+  "loop_delay_min": 4,
+  "loop_delay_max": 8,
+  "max_workers": 5,
+  "proxy_batch": 40,
+  "proxy_timeout": 3,
+  "proxy_preload": 60,
+  "page_timeout": 28000,
+  "submit_wait_min": 2500,
+  "submit_wait_max": 4000,
+  "view_count": "200",
+  "speed_mode": "ultra",
+  "bot_token": "8818515366:AAGmHatlqmuGEwhzRoGV3H27HjMhNZlqHP4"
+}
